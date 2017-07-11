@@ -69,18 +69,12 @@ body {
 #header #tagline {
     font-weight: 300;
 }
+
 #download {
 	margin: 1em auto;
 }
-/*
-#header a#download {
-    margin: 3em 0 1em;
-    padding: 10px 32px;
-    font-weight: 600;
-}
-*/
+
 #screenshots {
-	/*background-color: #fcfcfc;*/
     padding: 20px 0;
 }
 
@@ -115,11 +109,4 @@ body {
 
 #footer {
     padding: 20px 0;
-}
-
-#hulihee {
-    font-size: 22px;
-    line-height: 30px;
-    letter-spacing: -1px;
-    margin-bottom: 20px;
 }
